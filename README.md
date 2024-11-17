@@ -47,14 +47,11 @@
 - [1단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/34)
 - [2 ~ 4단계 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/123)
 
-## LEVEL3 프로젝트
+## LEVEL3, 4 프로젝트
 [프로젝트] 총대마켓
-- [총대마켓](https://github.com/woowacourse-teams/2024-chongdae-market)
+- [총대마켓 담당 PR](https://github.com/woowacourse-teams/2024-chongdae-market](https://github.com/woowacourse-teams/2024-chongdae-market/pulls?q=is%3Apr+assignee%3Ahelenason))
 
-## LEVEL4 프로젝트 + 미션
-[프로젝트] 총대마켓
-- [총대마켓](https://github.com/woowacourse-teams/2024-chongdae-market)
-
+## LEVEL4 미션
 [미션1] Tomcat 구현하기
 - [1, 2단계 PR](https://github.com/woowacourse/java-http/pull/579)
 - [3단계 PR](https://github.com/woowacourse/java-http/pull/648)
@@ -63,9 +60,13 @@
 [미션2] @MVC 구현하기
 - [1단계 PR](https://github.com/woowacourse/java-mvc/pull/694)
 - [2단계 PR](https://github.com/woowacourse/java-mvc/pull/784)
-- 3단계 PR
+- [3단계 PR](https://github.com/woowacourse/java-mvc/pull/865)
 
 [미션3] JDBC 라이브러리 구현하기
+- [1단계 PR](https://github.com/woowacourse/java-jdbc/pull/645)
+- [2단계 PR](https://github.com/woowacourse/java-jdbc/pull/743)
+- [3단계 PR](https://github.com/woowacourse/java-jdbc/pull/780)
+- [4단계 PR](https://github.com/woowacourse/java-jdbc/pull/923)
 
 ## 글쓰기
 [1. 나는 느리고 시간은 빠르다.](https://github.com/helenason/woowa-writing/blob/step4/LEVEL1.md)
@@ -74,4 +75,4 @@
 
 [3. 용감한 쫄보](https://github.com/helenason/woowa-writing/blob/step4/LEVEL3.md)
 
-[4. 인덱스, 항상 효과 있을까?](https://github.com/helenason/woowa-writing/blob/step4/LEVEL4.md)
+[4. 인덱스는 만능인가](https://github.com/helenason/woowa-writing/blob/step4/LEVEL4.md)

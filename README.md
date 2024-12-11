@@ -14,6 +14,16 @@
 | 2 | [FCM 푸시알림 도입](https://github.com/woowacourse-teams/2024-chongdae-market/pull/605) |
 | 3 | [FCM 푸시알림 비동기 처리](https://github.com/woowacourse-teams/2024-chongdae-market/pull/654) |
 
+### 관련 블로그 포스팅
+- [[협업] 한 달 간의 고진감래](https://helenason.tistory.com/12)
+- [[프로젝트] 쿼리 최적화와 인덱스로 API Latency 30배 개선하기](https://helenason.tistory.com/18)
+- [[프로젝트] FCM 푸시알림 도입기 | 백엔드 자바](https://helenason.tistory.com/19)
+- [[프로젝트] FCM 푸시알림 트러블슈팅 | 따닥, 이벤트, 비동기 처리](https://helenason.tistory.com/20)
+- [[DB] 인덱스는 만능인가](https://helenason.tistory.com/17)
+- [[인프라] 개발 환경 CI/CD 파이프라인 구축기 | Github Actions, Self-hosted Runner, Docker 기술 선택 이유](https://helenason.tistory.com/16)
+- [[HTML] OG 메타 태그 크롤링하여 이미지 추출하기 | Jsoup 구현](https://helenason.tistory.com/14)
+- [[문서화] Swagger vs Spring REST Docs](https://helenason.tistory.com/9)
+
 ## 🎡 LEVEL4 바퀴의 재발명
 #### 2024.09. ~ 2024.10.
 - 익숙하게 사용하고 있던 라이브러리 직접 구현해보기

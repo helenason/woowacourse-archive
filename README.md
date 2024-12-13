@@ -1,5 +1,7 @@
 > 우아한테크코스 6기에서의 성장 기록 저장소입니다.
 
+<br>
+
 ## 🎬 LEVEL3 팀 프로젝트
 #### 2024.07. ~ ing
 
@@ -24,60 +26,53 @@
 - [[HTML] OG 메타 태그 크롤링하여 이미지 추출하기 | Jsoup 구현](https://helenason.tistory.com/14)
 - [[문서화] Swagger vs Spring REST Docs](https://helenason.tistory.com/9)
 
+<br>
+
 ## 🎡 LEVEL4 바퀴의 재발명
 #### 2024.09. ~ 2024.10.
 - 익숙하게 사용하고 있던 라이브러리 직접 구현해보기
 
 ### 활동 내역
-|  | 미션                     | 단계                                                  |
-|:--:|:---------------------------|:-----------------------------------------------------|
-| 1 | [Tomcat 구현하기](https://github.com/woowacourse/java-http/tree/helenason)          | [1 - 2단계](https://github.com/woowacourse/java-http/pull/579)      |
-| 2 |                             | [3단계](https://github.com/woowacourse/java-http/pull/648)      |
-| 3 |                             | [4단계](https://github.com/woowacourse/java-http/pull/755)      |
-| 4 | [@MVC 구현하기](https://github.com/woowacourse/java-mvc/tree/helenason)            | [1단계](https://github.com/woowacourse/java-mvc/pull/694)       |
-| 5 |                             | [2단계](https://github.com/woowacourse/java-mvc/pull/784)       |
-| 6 |                             | [3단계](https://github.com/woowacourse/java-mvc/pull/865)       |
-| 7 | [JDBC 라이브러리 구현하기](https://github.com/woowacourse/java-jdbc/tree/helenason) | [1단계](https://github.com/woowacourse/java-jdbc/pull/645)      |
-| 8 |                             | [2단계](https://github.com/woowacourse/java-jdbc/pull/743)      |
-| 9 |                             | [3단계](https://github.com/woowacourse/java-jdbc/pull/780)      |
-| 10 |                             | [4단계](https://github.com/woowacourse/java-jdbc/pull/923)      |
+|  | 미션    | PR1    | PR2    | PR3    | PR4    |
+|:--:|:-----|:-------|:-------|:-------|:-------|
+| 1 | [Tomcat 구현하기](https://github.com/woowacourse/java-http/tree/helenason) | [1 - 2단계](https://github.com/woowacourse/java-http/pull/579) | [3단계](https://github.com/woowacourse/java-http/pull/648) | [4단계](https://github.com/woowacourse/java-http/pull/755)      |
+| 2 | [@MVC 구현하기](https://github.com/woowacourse/java-mvc/tree/helenason) | [1단계](https://github.com/woowacourse/java-mvc/pull/694) | [2단계](https://github.com/woowacourse/java-mvc/pull/784)| [3단계](https://github.com/woowacourse/java-mvc/pull/865) |
+| 3 | [JDBC 라이브러리 구현하기](https://github.com/woowacourse/java-jdbc/tree/helenason) | [1단계](https://github.com/woowacourse/java-jdbc/pull/645) | [2단계](https://github.com/woowacourse/java-jdbc/pull/743) | [3단계](https://github.com/woowacourse/java-jdbc/pull/780) | [4단계](https://github.com/woowacourse/java-jdbc/pull/923) |
+
+<br>
 
 ## ☕️ LEVEL1 자바, 클린코드, 리팩터링, TDD, 데이터베이스
 #### 2024.02. ~ 2024.03.
-- 페어 프로그래밍 및 코드 리뷰
+- 페어 프로그래밍 및 코드 리뷰 등 협업 문화 경험
 
-|  | 미션           | 단계                                                  |
-|:--:|:----------------|:--------------------------------------------------|
-| 1 | [자동차 경주](https://github.com/woowacourse/java-racingcar/tree/helenason) | [1단계](https://github.com/woowacourse/java-racingcar/pull/653) |
-| 2 |                | [2단계](https://github.com/woowacourse/java-racingcar/pull/791) |
-| 3 | [사다리타기](https://github.com/woowacourse/java-ladder/tree/helenason) | [1단계](https://github.com/woowacourse/java-ladder/pull/316)    |
-| 4 |                | [2단계](https://github.com/woowacourse/java-ladder/pull/408)    |
-| 5 | [블랙잭](https://github.com/woowacourse/java-blackjack/tree/helenason)     | [1단계](https://github.com/woowacourse/java-blackjack/pull/657) |
-| 6 |                | [2단계](https://github.com/woowacourse/java-blackjack/pull/715) |
-| 7 | [체스](https://github.com/woowacourse/java-chess/tree/helenason)       | [1 - 2단계](https://github.com/woowacourse/java-chess/pull/700)     |
-| 8 |                | [3 - 4단계](https://github.com/woowacourse/java-chess/pull/811)     |
+|  | 미션 | PR1 | PR2 |
+|:--:|:----|:----|:----|
+| 1 | [자동차 경주](https://github.com/woowacourse/java-racingcar/tree/helenason) | [1단계](https://github.com/woowacourse/java-racingcar/pull/653) | [2단계](https://github.com/woowacourse/java-racingcar/pull/791) |
+| 2 | [사다리타기](https://github.com/woowacourse/java-ladder/tree/helenason) | [1단계](https://github.com/woowacourse/java-ladder/pull/316)    | [2단계](https://github.com/woowacourse/java-ladder/pull/408)    |
+| 3 | [블랙잭](https://github.com/woowacourse/java-blackjack/tree/helenason)     | [1단계](https://github.com/woowacourse/java-blackjack/pull/657) | [2단계](https://github.com/woowacourse/java-blackjack/pull/715) |
+| 4 | [체스](https://github.com/woowacourse/java-chess/tree/helenason)       | [1 - 2단계](https://github.com/woowacourse/java-chess/pull/700)     | [3 - 4단계](https://github.com/woowacourse/java-chess/pull/811)     |
 
 ### 관련 블로그 포스팅
 - [[GIT] cherry-pick | 다른 브랜치의 커밋 적용하기](https://helenason.tistory.com/6)
 - [[우아한테크코스] 2월 한달 회고](https://helenason.tistory.com/7)
 
+<br>
+
 ## 🍃 LEVEL2 스프링, 웹, HTTP, 인프라
 #### 2024.04. ~ 2024.06.
-- 페어 프로그래밍 및 코드 리뷰
+- 페어 프로그래밍 및 코드 리뷰 등 협업 문화 경험
 
-|  | 미션                | 단계                                                   |
-|:--:|:--------------------|:---------------------------------------------------------------------|
-| 1 | [방탈출 예약 관리](https://github.com/woowacourse/spring-roomescape-admin/tree/helenason) | [1 - 3단계](https://github.com/woowacourse/spring-roomescape-admin/pull/49) |
-| 2 |                     | [4 - 10단계](https://github.com/woowacourse/spring-roomescape-admin/pull/96) |
-| 3 | [방탈출 사용자 예약](https://github.com/woowacourse/spring-roomescape-member/tree/helenason) | [1 - 3단계](https://github.com/woowacourse/spring-roomescape-member/pull/35) |
-| 4 |                     | [4 - 6단계](https://github.com/woowacourse/spring-roomescape-member/pull/113) |
-| 5 | [방탈출 예약 대기](https://github.com/woowacourse/spring-roomescape-waiting/tree/helenason) | [1 - 2단계](https://github.com/woowacourse/spring-roomescape-waiting/pull/72) |
-| 6 |                     | [3 - 4단계](https://github.com/woowacourse/spring-roomescape-waiting/pull/143) |
-| 7 | [방탈출 결제/배포](https://github.com/woowacourse/spring-roomescape-payment/tree/helenason) | [1단계](https://github.com/woowacourse/spring-roomescape-payment/pull/34) |
-| 8 |                     | [2 - 4단계](https://github.com/woowacourse/spring-roomescape-payment/pull/123) |
+|  | 미션                | PR1 | PR2 |
+|:--:|:-----------------|:----|:----|
+| 1 | [방탈출 예약 관리](https://github.com/woowacourse/spring-roomescape-admin/tree/helenason) | [1 - 3단계](https://github.com/woowacourse/spring-roomescape-admin/pull/49) | [4 - 10단계](https://github.com/woowacourse/spring-roomescape-admin/pull/96) |
+| 2 | [방탈출 사용자 예약](https://github.com/woowacourse/spring-roomescape-member/tree/helenason) | [1 - 3단계](https://github.com/woowacourse/spring-roomescape-member/pull/35) | [4 - 6단계](https://github.com/woowacourse/spring-roomescape-member/pull/113) |
+| 3 | [방탈출 예약 대기](https://github.com/woowacourse/spring-roomescape-waiting/tree/helenason) | [1 - 2단계](https://github.com/woowacourse/spring-roomescape-waiting/pull/72) | [3 - 4단계](https://github.com/woowacourse/spring-roomescape-waiting/pull/143) |
+| 4 | [방탈출 결제/배포](https://github.com/woowacourse/spring-roomescape-payment/tree/helenason) | [1단계](https://github.com/woowacourse/spring-roomescape-payment/pull/34) | [2 - 4단계](https://github.com/woowacourse/spring-roomescape-payment/pull/123) |
 
 ### 관련 블로그 포스팅
 - [[TroubleShooting] 에러 해결 과정에서 알게 된 @DirtiesContext 동작 방식](https://helenason.tistory.com/8)
+
+<br>
 
 ## 🌱 PRE-COURSE 객체지향, MVC
 #### 2023.10. ~ 2023.12.
@@ -93,6 +88,8 @@
 ### 관련 블로그 포스팅
 - [[우아한테크코스] 6기 최종합격 회고](https://helenason.tistory.com/5)
 
+<br>
+
 ## 📝 글쓰기
 |   | 제목                                |
 |:--:|:---------------------------------|
@@ -100,6 +97,8 @@
 | 2 | [적당한 조급함은 게으르지 않을 양분이 된다](https://github.com/helenason/woowa-writing/blob/step4/LEVEL2.md) |
 | 3 | [용감한 쫄보](https://github.com/helenason/woowa-writing/blob/step4/LEVEL3.md) |
 | 4 | [인덱스는 만능인가](https://github.com/helenason/woowa-writing/blob/step4/LEVEL4.md) |
+
+<br>
 
 ## 🗣️ 10분 테코톡
 - 우아한테크코스 과정을 진행하며 학습한 내용을 공유하는 시간

@@ -12,19 +12,28 @@
 ### 나의 대표 담당 작업
 |  | Pull Request |
 |:--:|:--------|
-| 1 | [쿼리 최적화 및 인덱스](https://github.com/woowacourse-teams/2024-chongdae-market/pull/578) |
+| 1 | [쿼리 최적화 및 인덱스로 30배 성능 개선](https://github.com/woowacourse-teams/2024-chongdae-market/pull/578) |
 | 2 | [FCM 푸시알림 도입](https://github.com/woowacourse-teams/2024-chongdae-market/pull/605) |
-| 3 | [FCM 푸시알림 비동기 처리](https://github.com/woowacourse-teams/2024-chongdae-market/pull/654) |
+| 3 | [FCM 푸시알림 비동기 처리로 20배 성능 개선](https://github.com/woowacourse-teams/2024-chongdae-market/pull/654) |
+| 4 | [비관적 쓰기 잠금으로 동시성 이슈 해결](https://github.com/woowacourse-teams/2024-chongdae-market/pull/673) |
+| 5 | [JPA N+1 문제 해결](https://github.com/woowacourse-teams/2024-chongdae-market/pull/695) |
+| 6 | [비동기 LazyInitializationException 해결](https://github.com/woowacourse-teams/2024-chongdae-market/pull/695) |
+| 7 | [QueryDsl 도입으로 중복 쿼리 개선](https://github.com/woowacourse-teams/2024-chongdae-market/pull/684) |
 
 ### 관련 블로그 포스팅
 - [[협업] 한 달 간의 고진감래](https://helenason.tistory.com/12)
 - [[프로젝트] 쿼리 최적화와 인덱스로 API Latency 30배 개선하기](https://helenason.tistory.com/18)
-- [[프로젝트] FCM 푸시알림 도입기 | 백엔드 자바](https://helenason.tistory.com/19)
-- [[프로젝트] FCM 푸시알림 트러블슈팅 | 따닥, 이벤트, 비동기 처리](https://helenason.tistory.com/20)
-- [[DB] 인덱스는 만능인가](https://helenason.tistory.com/17)
+- [[프로젝트] FCM 푸시알림 도입기 | 안드로이드 코틀린 & 백엔드 자바](https://helenason.tistory.com/19)
+- [[프로젝트] 동시성 이슈 해결 과정: Spring Event로 비동기 처리하기](https://helenason.tistory.com/20)
+- [[프로젝트] 트랜잭션이 롤백될 때 이미 발행된 이벤트를 어떻게 처리할까: @TransactionalEventListener](https://helenason.tistory.com/22)
+- [[프로젝트] QueryDSL을 도입하면 무엇이 좋을까 (from JPQL)](https://helenason.tistory.com/24)
+- [[프로젝트] JPA N+1 문제 해결하여 성능 개선하기: LAZY 로딩 전략, fetch join](https://helenason.tistory.com/25)
+- [[프로젝트] 비동기 스레드 내부에서 발생한 LazyInitializationException 해결하기](https://helenason.tistory.com/26)
+- [[프로젝트] OG 메타 태그 크롤링하여 이미지 추출하기 | Jsoup 구현](https://helenason.tistory.com/14)
 - [[인프라] 개발 환경 CI/CD 파이프라인 구축기 | Github Actions, Self-hosted Runner, Docker 기술 선택 이유](https://helenason.tistory.com/16)
-- [[HTML] OG 메타 태그 크롤링하여 이미지 추출하기 | Jsoup 구현](https://helenason.tistory.com/14)
-- [[문서화] Swagger vs Spring REST Docs](https://helenason.tistory.com/9)
+- [[학습] 인덱스는 만능인가](https://helenason.tistory.com/17)
+- [[학습] @TransactionalEventListener: 학습테스트 만들어 동작 방식 확인해보기](https://helenason.tistory.com/23)
+- [[학습] Swagger vs Spring REST Docs](https://helenason.tistory.com/9)
 
 <br>
 
